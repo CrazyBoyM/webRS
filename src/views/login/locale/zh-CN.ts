@@ -1,5 +1,5 @@
 export default {
-  'login.form.title': '登录 Arco Design Pro',
+  'login.form.title': '登录 小桨神瞳',
   'login.form.userName.errMsg': '用户名不能为空',
   'login.form.password.errMsg': '密码不能为空',
   'login.form.login.errMsg': '登录出错，轻刷新重试',
@@ -10,10 +10,10 @@ export default {
   'login.form.forgetPassword': '忘记密码',
   'login.form.login': '登录',
   'login.form.register': '注册账号',
-  'login.banner.slogan1': '开箱即用的高质量模板',
-  'login.banner.subSlogan1': '丰富的的页面模板，覆盖大多数典型业务场景',
-  'login.banner.slogan2': '内置了常见问题的解决方案',
-  'login.banner.subSlogan2': '国际化，路由配置，状态管理应有尽有',
-  'login.banner.slogan3': '接入可视化增强工具AUX',
-  'login.banner.subSlogan3': '实现灵活的区块式开发',
+  'login.banner.slogan1': '开箱即用的遥感解析套件',
+  'login.banner.subSlogan1': '丰富的的解析模型，覆盖大多数典型遥感场景',
+  'login.banner.slogan2': '最先进的开发方案',
+  'login.banner.subSlogan2': 'Vite + vue3 + ts + arco + paddlers',
+  'login.banner.slogan3': '可视化的解析结果',
+  'login.banner.subSlogan3': '左右拖动滑块，查看结果的可视化',
 };

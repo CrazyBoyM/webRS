@@ -1,5 +1,5 @@
 export default {
-  path: 'https://arco.design/vue/docs/pro/faq',
+  path: 'https://github.com/PaddleCV-SIG/PaddleRS/',
   name: 'faq',
   meta: {
     locale: 'menu.faq',

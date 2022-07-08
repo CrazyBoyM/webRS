@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 /**
  * If you use the template method for development, you can use the unplugin-vue-components plugin to enable on-demand loading support.
  * 按需引入

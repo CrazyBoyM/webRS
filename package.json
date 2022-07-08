@@ -1,6 +1,6 @@
 {
   "name": "arco-design-pro-vue",
-  "description": "Arco Design Pro for Vue",
+  "description": "小桨神瞳 for Vue",
   "version": "1.0.0",
   "private": true,
   "author": "ArcoDesign Team",
@@ -43,6 +43,7 @@
     "pinia": "^2.0.9",
     "query-string": "^7.0.1",
     "vue": "^3.2.31",
+    "vue-cropper": "^1.0.3",
     "vue-echarts": "^6.0.0",
     "vue-i18n": "^9.2.0-beta.17",
     "vue-router": "^4.0.14"
